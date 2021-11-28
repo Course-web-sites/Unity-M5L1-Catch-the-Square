@@ -1,0 +1,11 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Catch the Square",
+"dataUrl": "Unity-M5L1-Catch-the-Square.data.unityweb",
+"asmCodeUrl": "Unity-M5L1-Catch-the-Square.asm.code.unityweb",
+"asmMemoryUrl": "Unity-M5L1-Catch-the-Square.asm.memory.unityweb",
+"asmFrameworkUrl": "Unity-M5L1-Catch-the-Square.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
